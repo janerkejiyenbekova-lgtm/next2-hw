@@ -8,7 +8,7 @@ export const metadata = {
     description: "O'zbek va jahon adabiyotining eng sara asarlarini onlayn o'qing, yuklab oling va sevimli kitoblaringizni kashf eting.",
     images: [
       {
-        url: "/og-home.jpg",
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2lkICrHNRAvGhMKQ7hwkAAVo9hJYvQI5snSB5FS9sC55rpUrJ6-0KdVU&s=10",
         width: 1200,
         height: 630,
         alt: "Mutolaa - kitoblar platformasi",
