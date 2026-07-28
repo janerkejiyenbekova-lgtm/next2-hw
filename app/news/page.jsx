@@ -8,7 +8,7 @@ export const metadata = {
     description: "Eng so'nggi yangiliklar va e'lonlar",
     images: [
       {
-        url: "https://img.magnific.com/free-vector/news-grunge-text_460848-9369.jpg?semt=ais_hybrid&w=740&q=80",
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzsaRjYbsegEs62iu5KbS8Ciw-KLMaj_6fV8Yd1cZ_mBi9COdBoPLvWkE&s=10",
         width: 1200,
         height: 630,
         alt: "Mutolaa yangiliklari",
